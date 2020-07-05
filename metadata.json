@@ -1,0 +1,8 @@
+{
+  "name": "Apllications View Tooltips",
+  "description": "Shows a Tooltip on Application Icons in Application View",
+  "uuid": "applications-view-tooltips@truckerdev.github.com",
+  "shell-version": [
+    "3.36"
+  ]
+}
